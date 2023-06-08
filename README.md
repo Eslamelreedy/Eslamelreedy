@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am Eslam Elreedy, a Master's student at Queens U
 - Bachelor's in Computer Science, XYZ University
 
 ## Contact Information 📧
-- Email: [eslam.elreedy@example.com](mailto:eslam.elreedy@example.com)
+- Email: [eslamelredy@gmail.com](mailto:eslamelredy@gmail.com)
 - LinkedIn: [linkedin.com/in/eslam-elreedy](https://www.linkedin.com/in/eslam-elreedy/)
 - GitHub: [github.com/Eslamelreedy](https://github.com/Eslamelreedy)
 
