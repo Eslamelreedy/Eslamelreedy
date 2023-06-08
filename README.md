@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I am Eslam Elreedy, a Master's student at Queen's 
 <a href="https://linkedin.com/in/eslam-elreedy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/eslam-elreedy/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11991341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eslam-elreedy" height="30" width="40" /></a>
 <a href="https://kaggle.com/eslamelreedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eslamelreedy" height="30" width="40" /></a>
-<a href="https://kaggle.com/eslamelreedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eslamelreedy" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
