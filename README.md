@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am Eslam Elreedy, a Master's student at Queen's 
 
 
 <p align="left">
-<a href="https://fb.com/facebook.com/eslamredy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/eslamredy" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/eslamredy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Eslamredy" height="30" width="40" /></a>
 <a href="https://twitter.com/eslamredy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eslamredy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/eslam-elreedy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/eslam-elreedy/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/eslam-elreedy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eslam-elreedy" height="30" width="40" /></a>
