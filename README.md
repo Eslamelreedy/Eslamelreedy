@@ -1,6 +1,6 @@
 # Eslam Elreedy - Data Scientist 👨‍💻
 
-Welcome to my GitHub profile! I am Eslam Elreedy, a Master's student at Queens University specializing in Data Science. Here, you will find a collection of my projects and contributions related to data analysis, machine learning, and software development. 
+Welcome to my GitHub profile! I am Eslam Elreedy, a Master's student at Queen's University specializing in Data Science. Here, you will find a collection of my projects and contributions related to data analysis, machine learning, and software development. 
 
 ## Skills 🚀
 - Programming Languages: Python
@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I am Eslam Elreedy, a Master's student at Queens U
 - Repository: [A Visual History of Nobel Prize Winners](https://github.com/Eslamelreedy/A-Visual-History-of-Nobel-Prize-Winners)
 
 ## Education 🎓
-- Master's in Data Science, Queens University
-- Bachelor's in Computer Science, XYZ University
+- Master's in Data Science, Queen's University
+- Bachelor's in Computer Science, October University
 
 ## Contact Information 📧
 - Email: [eslamelredy@gmail.com](mailto:eslamelredy@gmail.com)
