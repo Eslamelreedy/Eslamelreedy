@@ -106,14 +106,6 @@ Alongside industry work, I teach AI and help learners move from *models* to *sys
 
 > Some industry projects are private but can be discussed in interviews.
 
----
-
-### 🦠 COVID-19 Outcome Prediction
-- Classical ML models: KNN, SVM, Logistic Regression, Decision Trees
-- Proper evaluation (ROC, F1, Precision, Recall)
-- Interactive dashboards
-
-🔗 https://github.com/Eslamelreedy/COVID-19-Outcome-Prediction
 
 ---
 
@@ -129,8 +121,6 @@ Alongside industry work, I teach AI and help learners move from *models* to *sys
 ## 🎓 Education
 
 - **MSc in Artificial Intelligence & Data Science** — Queen’s University  
-  GPA: 4.1 / 4.3  
-  Thesis: Fraud Prediction & Customer Behavior Classification
 
 - **BSc in Computer Science** — October University
 
@@ -145,4 +135,4 @@ Alongside industry work, I teach AI and help learners move from *models* to *sys
 
 ---
 
-> *I don’t just train models — I design AI systems that can be deployed, monitored, and trusted.*
+Feel free to explore my projects and reach out to me for any collaborations or opportunities. Let's connect and explore the world of data science together! 🌍🔬💡
